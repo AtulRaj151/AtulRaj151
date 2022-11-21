@@ -1,6 +1,6 @@
-![Atul Raj Banner](https://github.com/AtulRaj151/assetServer/blob/main/299429727_5306244546157127_345608328436660389_n.jpeg)
 
-<img alt="Night Coding" src="https://github.com/AtulRaj151/assetServer/blob/9fc357a67322da27c5936b16b1ecda9e6ec1130e/handwave.gif" width='10' height="5" align="left"/><h2>Hello! I am Atul </h2>
+<img alt="Night Coding" src="https://github.com/AtulRaj151/assetServer/blob/9fc357a67322da27c5936b16b1ecda9e6ec1130e/handwave.gif" width='40' height="40" align="left"/><h2>Hello! I am Atul </h2>
+<img alt="Night Coding" src="https://github.com/AtulRaj151/assetServer/blob/main/299429727_5306244546157127_345608328436660389_n.jpeg" height="500" width="400" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -11,7 +11,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at atulsid151@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://github.com/AtulRaj151/assetServer/blob/main/f1e734f9cade86fe737a9aa404ad5677.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/AtulRaj151/assetServer/blob/main/f1e734f9cade86fe737a9aa404ad5677.gif" height="500" width="500"  align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
