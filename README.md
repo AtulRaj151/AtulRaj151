@@ -1,5 +1,5 @@
 
-<img alt="atul" src="https://github.com/AtulRaj151/assetServer/blob/9fc357a67322da27c5936b16b1ecda9e6ec1130e/handwave.gif" width='40' height="40" align="left"/><h2>Hello! I am Atul </h2>
+<h2>Hello! I am Atul </h2>
 <img alt="atul" src="https://github.com/AtulRaj151/assetServer/blob/main/atul.jpeg" height="350" width="300" />
 ![ScreenShot](https://github.com/AtulRaj151/assetServer/blob/main/atul.jpeg)
 
