@@ -9,7 +9,6 @@
 🎓 &nbsp;I'm currently working as Full stack developer at Xebia(IdfcFirst Bank).\
 🌱 &nbsp;I'm on track for learning more about Blockchain.\
 ✍️ &nbsp;In my free time, I pursue Video Editing and love Travelling .\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at atulsid151@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="atul" src="https://github.com/AtulRaj151/assetServer/blob/main/f1e734f9cade86fe737a9aa404ad5677.gif" height="400" width="500"  align="right"/>
